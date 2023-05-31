@@ -1,4 +1,4 @@
-# scararobot_knut
+# SCARA Robot_knut
 캡스톤디자인 코드 정보
 
 detect.py 아두이노 전송 관해서는 172번째 줄부터 보시면 되고 
